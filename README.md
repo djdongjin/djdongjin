@@ -5,6 +5,7 @@
 [![djdongjin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdongjin&layout=compact&langs_count=4&theme=gruvbox&hide=html,ruby,SCSS,vim-script)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 👨‍💻 I'm a software engineer @databricks working on container/image infrastructure.
+- 🧑‍🔧 I'm a maintainer of [containerd](https://github.com/containerd/containerd), a container runtime and CNCF graduated project.
 - 🧑‍🔧 I'm a maintainer of [nerdctl](https://github.com/containerd/nerdctl), a containerd client and containerd sub-project.
 
 Previously,
